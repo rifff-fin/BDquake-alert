@@ -4,8 +4,7 @@
 
 \*\*Real-time earthquake monitoring \& instant email alerts for Bangladesh\*\*  
 
-Live: https://bdquake-guard.netlify.app
-
+Live: https://bdquakealert.netlify.app/
 
 
 \### Features
@@ -24,7 +23,7 @@ Live: https://bdquake-guard.netlify.app
 
 \### Live Links
 
-\- Website: https://bdquake-guard.netlify.app
+\- Website: https://bdquakealert.netlify.app/
 
 \- API: https://bdquake-guard.onrender.com/api/latest
 
